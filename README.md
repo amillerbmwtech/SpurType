@@ -5,3 +5,6 @@ Some description
 ## Subheader
 
 Some more stuff here
+
+1. Open index.html in your browser.
+
